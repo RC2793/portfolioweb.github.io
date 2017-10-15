@@ -1,0 +1,41 @@
+ul{
+    margin: 0;
+    padding: 0;
+
+}
+ul li{
+    list-style: none;
+    height: 33.33vh;
+    width:100vw;
+
+}
+#orange,#white,#green{
+    height:33.33vh;
+}
+#orange{
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
+#white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px !important;
+    color: #3b5998 !important;
+    font-family: Sedgwick Ave, cursive;
+
+}
+
+#typed{
+font-size: 40px !important;
+color: #3b5998 !important;
+font-family: Sedgwick Ave, cursive;
+
+}
+/*h1{
+    color: blue;
+    font-size: 80;
+    font-family: "Segwick Ave Display",cursive;
+}*/
